@@ -6,9 +6,9 @@ https://drive.google.com/file/d/1EghtkQQLsf7o-H20vTAv9EYtqlMSVaCQ/view?usp=shari
 
 ## Individual Contribution
 My core responsibilities as a product designer and frontend developer included:
-*  Conducted user interviews, formulated Animatic's information architecture and hierarchy, and built visual UI prototypes to present to the professor.
-*  Translated the visual UI layouts into production-ready HTML, CSS, and JavaScript.
-*  Engineered the frontend user interaction elements for missions, hints, and the guided instructional character named Pip.
+*  Conducted qualitative user interviews on pain points for learning animation, formulated Animatic's information architecture and hierarchy, developed content chunking strategies
+*  Prototyped visual UI layouts with an agent instructor named Pip and an embedded canvas to provide the user with their entire workspace.
+*  Engineered the frontend UI components for intuitive user journey and interactions using HTML, CSS, JavaScript while leveraging GitHub Copilot.
 
 ## Run the app locally
 
