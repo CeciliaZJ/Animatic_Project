@@ -1,6 +1,15 @@
 # Animatic_UI_Project
 This is a group project for UI/UX Design class. Learn how to make your first animation - A walkthrough of making your first 5 frame animation. It can be as simple as a stickman or a basketball bouncing on the floor. 
 
+## Project Walkthrough
+https://drive.google.com/file/d/1EghtkQQLsf7o-H20vTAv9EYtqlMSVaCQ/view?usp=sharing
+
+## Individual Contribution
+My core responsibilities as a product designer and frontend developer included:
+*  Conducted user interviews, formulated Animatic's information architecture and hierarchy, and built visual UI prototypes to present to the professor.
+*  Translated the visual UI layouts into production-ready HTML, CSS, and JavaScript.
+*  Engineered the frontend user interaction elements for missions, hints, and the guided instructional character named Pip.
+
 ## Run the app locally
 
 1. Open a terminal in the project folder.
@@ -52,10 +61,10 @@ Quiz questions live in `data.json` (source of truth, not hard-coded in HTML). Pe
 
 ## Team Members (Contributors)
 
+- Cecilia Zhuo - CeciliaZJ
 - Khine Su Thar - Khine20
 - Jett W - jettlwang
 - Oleh Goumain - OleNY1
-- Cecilia Zhou - Cecilia
 
 ## Canvas Data (for backend)
 
